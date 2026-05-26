@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routervncrypt",
+        "uuid": 7273461,
+        "checksum": "dxjup"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
